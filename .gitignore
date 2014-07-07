@@ -1,5 +1,5 @@
 *.pro
 *.user
 *.o
-*/build-*-Desktop-Debug/*
+*/build-*-Desktop-Debug*
 
